@@ -1,4 +1,4 @@
-# In how many ways six speakers, A,B,C,D,E,F can address a gathering if A speaks after B #
+# In how many ways six dancers, A,B,C,D,E,F can perform in a solo competition if A performs after B #
 
 from itertools import permutations
 
@@ -9,5 +9,5 @@ for i in list(perm):
     if i.index(1) > i.index(2):
         countBA += 1
     count += 1
-print ("Six speakers can address in ", count, " ways")
-print ("A can speak after B in ", countBA, " ways")
+print ("Six dancers can dance in ", count, " ways")
+print ("A can dance after B in ", countBA, " ways")
