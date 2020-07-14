@@ -1,7 +1,7 @@
 # Solutions-to-mathematical-problems
 This repository has python solutions to mathematical problems
 
-Name of the code : Description
+# Name of the code : Description
 
 CommonTermsinSequences.py : Find out how many common terms are there between two sequences.
 
