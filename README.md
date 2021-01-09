@@ -8,3 +8,5 @@ CommonTermsinSequences.py : Find out how many common terms are there between two
 CountSquares.py : In a square grid (e.g. chessboard), count number of squares.
 
 PermuteSpeakers.py        : In how many ways 6 dancers, A,B,C,D,E,F, can perform in a solo competition, if B performs before A?
+
+Karatsuba.py  : Karatsuba multiplication of two numbers. Time complexity O(n^1.59)
